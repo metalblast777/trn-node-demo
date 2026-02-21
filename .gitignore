@@ -120,7 +120,12 @@ dist
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
+
 .vscode-test
+
+#Additional Visual studio  files to ignore
+.vsdix
+.slnx
 
 # yarn v2
 .yarn/cache
